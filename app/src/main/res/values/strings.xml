@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Bill for Meal</string>
+    <string name="price_total_label">Total with tip</string>
+    <string name="price_food_label">Price of food</string>
+    <string name="party_size_label">Party size</string>
+    <string name="tip_10">10%</string>
+    <string name="tip_15">15%</string>
+    <string name="tip_18">18%</string>
+    <string name="per_person_label">Per person</string>
+    <string name="price_total_placeholder">$0.00</string>
+    <string name="per_person_placeholder">$0.00</string>
+    <string name="tip_help">Select a tip amount to calculate.</string>
 </resources>
